@@ -1,11 +1,11 @@
 [{
-	"title":"titulaco",
-	"description":"descripcion noticia",
-	"imgbig": "img/dovakin.jpg",
-	"datetime":"fechaca"}
+	"title":"Ya a la venta las nuevas Camisetas",
+	"description":"Ya a la venta las nuevas camisetas de Yu-Gi-OH. Elige entre toda la variedad de colores, serigrafías y demás a un precio bajísimo. Además si compras por valor de 50€ o más incluye 10 sobres de la última remesa de cartas que ha salido.",
+	"imgbig": "img/camiseta.jpg",
+	"datetime":"15/09/2015"}
 	,{
-		"title":"titulaco",
-	"description":"descripcion noticia",
-	"imgbig": "img/dovakin.jpg",
-	"datetime":"fechaca"
+		"title":"¡Cajas a mitad de precio!",
+	"description":"Durante todo este mes 20% de descuento en cajas. ¡Aprovecha ahora! Cada caja incluye 40 sobres y una figura aleatoria de tu serie favorita. Completa tu mazo ahora al mejor precio y batalla en los duelos de cartas con los mejores monstruos.",
+	"imgbig": "img/cajas.jpg",
+	"datetime":"02/06/2015"
 }]
